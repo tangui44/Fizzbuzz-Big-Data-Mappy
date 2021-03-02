@@ -2,4 +2,4 @@
 
 Il s'agit d'un fichier python.
 
-Pour l'éxecuter il fautjuste passer en entrée standard le fichier log 
+Pour l'éxecuter il faut juste passer en entrée standard le fichier log 
